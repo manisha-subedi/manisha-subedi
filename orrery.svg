@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 300" width="730" height="300">
+<circle cx="365" cy="150" r="7" fill="#e2b93b"/>
+<circle cx="365" cy="150" r="24" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<circle cx="365" cy="150" r="40" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<circle cx="365" cy="150" r="58" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<circle cx="365" cy="150" r="76" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<circle cx="365" cy="150" r="104" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<circle cx="365" cy="150" r="136" fill="none" stroke="#d5d5d5" stroke-width="0.8"/>
+<g><animateTransform attributeName="transform" type="rotate" from="40 365 150" to="-320 365 150" dur="2.89s" repeatCount="indefinite"/><circle cx="389" cy="150" r="1.8" fill="#9a9a9a"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="200 365 150" to="-160 365 150" dur="7.38s" repeatCount="indefinite"/><circle cx="405" cy="150" r="2.8" fill="#d9a441"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="310 365 150" to="-50 365 150" dur="12s" repeatCount="indefinite"/><circle cx="423" cy="150" r="3" fill="#5b7fc1"/><g><animateTransform attributeName="transform" type="rotate" from="0 423 150" to="-360 423 150" dur="0.9s" repeatCount="indefinite"/><circle cx="430" cy="150" r="1" fill="#777"/></g></g>
+<g><animateTransform attributeName="transform" type="rotate" from="120 365 150" to="-240 365 150" dur="22.57s" repeatCount="indefinite"/><circle cx="441" cy="150" r="2.2" fill="#c8553d"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="250 365 150" to="-110 365 150" dur="142.34s" repeatCount="indefinite"/><circle cx="469" cy="150" r="6" fill="#c9a27e"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="20 365 150" to="-340 365 150" dur="353.48s" repeatCount="indefinite"/><circle cx="501" cy="150" r="5" fill="#d8c38a"/><ellipse cx="501" cy="150" rx="10" ry="3" fill="none" stroke="#d8c38a" stroke-width="1" transform="rotate(-20 501 150)"/></g>
+<text x="365" y="124" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Mercury</text>
+<text x="365" y="108" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Venus</text>
+<text x="365" y="90" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Earth</text>
+<text x="365" y="72" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Mars</text>
+<text x="365" y="44" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Jupiter</text>
+<text x="365" y="12" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#999">Saturn</text>
+</svg>
